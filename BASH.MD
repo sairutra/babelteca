@@ -13,10 +13,13 @@ https://stackoverflow.com/questions/2439579/how-to-get-the-first-line-of-a-file-
 https://stackoverflow.com/questions/1908610/how-to-get-process-id-of-background-process
 https://stackoverflow.com/questions/454427/string-difference-in-bash
 https://stackoverflow.com/questions/43167317/how-to-get-the-first-element-of-a-string-split-with-space
-
+https://sentry.io/answers/determine-whether-a-directory-exists-in-bash/
+https://stackoverflow.com/questions/6877727/how-do-i-delete-an-exported-environment-variable
 
 # grep
 https://stackoverflow.com/questions/13242469/how-to-use-sed-grep-to-extract-text-between-two-words
 https://stackoverflow.com/questions/20026370/using-bash-script-to-find-line-number-of-string-in-file#:~:text=You%20could%20just%20do%20grep,give%20you%20the%20line%20numbers.
 https://unix.stackexchange.com/questions/707327/finding-the-line-number-of-first-occurrence-of-a-text-in-bash-script
 
+# linux
+https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/
