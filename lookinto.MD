@@ -100,3 +100,5 @@ https://gist.github.com/cyfdecyf/845986
 [Examples to wrap function in C in different ways (workable or not)](https://gist.github.com/cyfdecyf/845986)
 
 [Mocking a function in C using “-Wl,–wrap ” compiler flag in GCC](https://cppcodetips.wordpress.com/2020/08/18/mocking-a-function-in-c-using-wl-wrap-compiler-flag-in-gcc/)
+
+https://www.youtube.com/results?search_query=doxygen+tutorial
