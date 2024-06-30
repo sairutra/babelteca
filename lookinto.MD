@@ -102,3 +102,6 @@ https://gist.github.com/cyfdecyf/845986
 [Mocking a function in C using “-Wl,–wrap ” compiler flag in GCC](https://cppcodetips.wordpress.com/2020/08/18/mocking-a-function-in-c-using-wl-wrap-compiler-flag-in-gcc/)
 
 https://www.youtube.com/results?search_query=doxygen+tutorial
+
+https://www.perforce.com/blog/qac/what-is-linting#:~:text=Linting%20is%20the%20automated%20checking,a%20Unix%20utility%20for%20C.
+z
