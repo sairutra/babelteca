@@ -12,3 +12,6 @@ http://www.unixwiz.net/techtips/termios-vmin-vtime.html
 
 # tar
 https://phoenixnap.com/kb/extract-tar-gz-files-linux-command-line
+
+# trash
+https://askubuntu.com/questions/468721/how-can-i-empty-the-trash-using-terminal
