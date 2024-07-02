@@ -15,3 +15,6 @@ https://phoenixnap.com/kb/extract-tar-gz-files-linux-command-line
 
 # trash
 https://askubuntu.com/questions/468721/how-can-i-empty-the-trash-using-terminal
+
+# processes
+https://www.youtube.com/watch?v=94URLRsjqMQ&list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&index=5
