@@ -15,6 +15,8 @@ https://stackoverflow.com/questions/454427/string-difference-in-bash
 https://stackoverflow.com/questions/43167317/how-to-get-the-first-element-of-a-string-split-with-space
 https://sentry.io/answers/determine-whether-a-directory-exists-in-bash/
 https://stackoverflow.com/questions/6877727/how-do-i-delete-an-exported-environment-variable
+https://stackoverflow.com/questions/3362920/get-just-the-filename-from-a-path-in-a-bash-script
+https://stackoverflow.com/questions/15749618/pass-a-command-as-an-argument-to-bash-script
 
 # grep
 https://stackoverflow.com/questions/13242469/how-to-use-sed-grep-to-extract-text-between-two-words
@@ -23,3 +25,6 @@ https://unix.stackexchange.com/questions/707327/finding-the-line-number-of-first
 
 # linux
 https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/
+
+# mv
+https://stackoverflow.com/questions/1224766/how-do-i-rename-the-extension-for-a-bunch-of-files
