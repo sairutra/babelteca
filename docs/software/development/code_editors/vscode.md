@@ -3,3 +3,7 @@ https://stackoverflow.com/questions/51820921/vscode-integrated-terminal-doesnt-l
 https://medium.com/mintbean-io/how-to-customize-your-terminal-prompt-with-vscode-6c045e73d200
 https://www.youtube.com/watch?v=yvXHM2NByh4
 https://www.youtube.com/watch?v=s3H6PmB4SZ4
+https://code.visualstudio.com/api/references/theme-color#base-colors
+https://stackoverflow.com/questions/45813427/visual-studio-code-sidebar-selection-color
+https://stackoverflow.com/questions/59121072/is-there-a-way-of-making-the-active-tab-border-highlighted-on-top-instead-of-at
+https://stackoverflow.com/questions/35926381/change-highlight-text-color-in-visual-studio-code
