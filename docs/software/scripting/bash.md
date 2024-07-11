@@ -17,6 +17,9 @@ https://sentry.io/answers/determine-whether-a-directory-exists-in-bash/
 https://stackoverflow.com/questions/6877727/how-do-i-delete-an-exported-environment-variable
 https://stackoverflow.com/questions/3362920/get-just-the-filename-from-a-path-in-a-bash-script
 https://stackoverflow.com/questions/15749618/pass-a-command-as-an-argument-to-bash-script
+https://unix.stackexchange.com/questions/435381/slicing-the-last-n-characters-in-string-after-final-whitespace
+http://tiswww.case.edu/php/chet/bash/bashref.html#Shell-Parameter-Expansion
+https://www.gnu.org/software/bash/manual/html_node/Command-Substitution.html
 
 # grep
 https://stackoverflow.com/questions/13242469/how-to-use-sed-grep-to-extract-text-between-two-words
