@@ -1,42 +1,37 @@
-https://www.youtube.com/watch?v=IZiUT-ipnj0
 
-https://www.youtube.com/watch?v=A9bPqlgbUvg
+[desktop enviroment](https://www.youtube.com/watch?v=TAQg8RSBICo&t=35s)
 
-https://www.youtube.com/watch?v=WPIFfMyi9Q0
+[linux workflow for an engineering student](https://www.youtube.com/watch?v=cAm2kKakN5U)
 
-https://www.youtube.com/watch?v=TAQg8RSBICo&t=35s
+[18 command tips in linux](https://www.youtube.com/watch?v=AVXYq8aL47Q)
 
-https://www.youtube.com/watch?v=cAm2kKakN5U
+[let's read bash source code](https://www.youtube.com/watch?v=8Q3a5Ru8rqo)
 
-https://www.youtube.com/watch?v=866-MpRATnM
+[History of x11](https://www.youtube.com/watch?v=R-N-fgKWYGU)
 
-https://www.youtube.com/watch?v=AVXYq8aL47Q
+[x11 vs wayland](https://www.youtube.com/watch?v=g5hw5Nisd8k)
 
-https://www.youtube.com/watch?v=8Q3a5Ru8rqo
+[x11 vs wayland 2](https://www.youtube.com/watch?v=nPz5TAGYgzA)
 
-https://www.youtube.com/watch?v=R-N-fgKWYGU
+[strace and ptrace](https://medium.com/@razika28/looking-into-process-tracing-and-control-in-linux-with-strace-and-ptrace-f335330d1500)
 
-https://www.youtube.com/watch?v=g5hw5Nisd8k
+[ptrace & proc](https://www.youtube.com/watch?v=0ihChIaN8d0)
 
-https://www.youtube.com/watch?v=nPz5TAGYgzA
+[strace](https://www.youtube.com/playlist?list=PL_jb7LxOF7HULE7n1ksAt0HEPMxNAXZ8j)
 
-https://www.youtube.com/watch?v=0ihChIaN8d0
+[own memory allocator](https://www.youtube.com/playlist?list=PL_jb7LxOF7HULE7n1ksAt0HEPMxNAXZ8j)
 
-https://www.youtube.com/watch?v=CulF4YQt6zA
+[strace && ltrace](https://www.youtube.com/watch?v=2AmP7Pse4U0)
 
-https://www.youtube.com/playlist?list=PL_jb7LxOF7HULE7n1ksAt0HEPMxNAXZ8j
+[linux boot process](https://www.youtube.com/watch?v=XpFsMB6FoOs)
 
-https://www.youtube.com/watch?v=2AmP7Pse4U0
+[docker never install locally](https://www.youtube.com/watch?v=J0NuOlA2xDc)
 
-https://www.youtube.com/watch?v=XpFsMB6FoOs
+[how does os boot](https://www.youtube.com/watch?v=KkenLT8S9Hs)
 
-https://www.youtube.com/watch?v=J0NuOlA2xDc
+[linux file system explained](https://www.youtube.com/watch?v=bbmWOjuFmgA)
 
-https://www.youtube.com/watch?v=KkenLT8S9Hs
-
-https://www.youtube.com/watch?v=bbmWOjuFmgA
-
-https://www.youtube.com/watch?v=hN2Yrf4tqTY
+[program, process, thread](https://www.youtube.com/watch?v=hN2Yrf4tqTY)
 
 https://medium.com/@YogevSitton/the-ultimate-reading-list-for-developers-e96c832d9687
 
@@ -48,41 +43,41 @@ https://stackoverflow.com/questions/556405/what-do-real-user-and-sys-mean-in-the
 
 https://dev.to/satrobit/cpu-time-how-to-accurately-benchmark-your-code-572p
 
-https://www.youtube.com/watch?v=Dq8l1_-QgAc
+[gdb 101](https://www.youtube.com/watch?v=Dq8l1_-QgAc)
 
-https://www.youtube.com/watch?v=m4agpY_w2y8
+[gdb embedded systems](https://www.youtube.com/watch?v=m4agpY_w2y8)
 
-https://www.youtube.com/watch?v=ny6y0pPO--4
+[debugging with gdb]( https://www.youtube.com/watch?v=ny6y0pPO--4)
 
-https://www.youtube.com/watch?v=VZtM-gQxmns
+[how does a debugger work]( https://www.youtube.com/watch?v=VZtM-gQxmns)
 
-https://www.youtube.com/watch?v=ZMzdrEYKyFQ
+[unions]( https://www.youtube.com/watch?v=ZMzdrEYKyFQ)
 
-https://www.youtube.com/watch?v=3T3ZDquDDVg
+[stop print debugger](https://www.youtube.com/watch?v=3T3ZDquDDVg)
 
-https://www.youtube.com/watch?v=J8uAiZJMfzQ
+[debug lige a pro](https://www.youtube.com/watch?v=J8uAiZJMfzQ)
 
-https://www.youtube.com/watch?v=8Uk9ROLGHVE
+[building own debugger](https://www.youtube.com/watch?v=8Uk9ROLGHVE)
 
-https://www.youtube.com/watch?v=6S5KRJv-7RU
+[assembly programming](https://www.youtube.com/watch?v=6S5KRJv-7RU)
 
-https://www.youtube.com/watch?v=bWMIpHVRFUo
+[inspecting compiled binaries](https://www.youtube.com/watch?v=bWMIpHVRFUo)
 
-https://www.youtube.com/watch?v=9YOZmI-zWok
+[awk](https://www.youtube.com/watch?v=9YOZmI-zWok)
 
-https://www.youtube.com/watch?v=EACe7aiGczw
+[sed](https://www.youtube.com/watch?v=EACe7aiGczw)
 
-https://www.youtube.com/watch?v=rp7jLi_kgPg
+[xargs](https://www.youtube.com/watch?v=rp7jLi_kgPg)
 
-https://www.youtube.com/watch?v=_0IFtMFYroU
+[cut & tr](https://www.youtube.com/watch?v=_0IFtMFYroU)
 
-https://www.youtube.com/watch?v=6chA0L_AT6k
+[linux 12](https://www.youtube.com/watch?v=6chA0L_AT6k)
 
-https://www.youtube.com/watch?v=nCS4BtJ34-o
+[linux 12 command line](https://www.youtube.com/watch?v=nCS4BtJ34-o)
 
-https://www.youtube.com/watch?v=s3ii48qYBxA
+[linux terminal guide](https://www.youtube.com/watch?v=s3ii48qYBxA)
 
-https://www.youtube.com/playlist?list=PL9IEJIKnBJjH_zM5LnovnoaKlXML5qh17
+[network programming](https://www.youtube.com/playlist?list=PL9IEJIKnBJjH_zM5LnovnoaKlXML5qh17)
 
 
 https://42born2code.slack.com/archives/D05URDHK3QS/p1708616354512009
