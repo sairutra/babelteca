@@ -33,15 +33,15 @@
 
 [program, process, thread](https://www.youtube.com/watch?v=hN2Yrf4tqTY)
 
-https://medium.com/@YogevSitton/the-ultimate-reading-list-for-developers-e96c832d9687
+[reading list](https://medium.com/@YogevSitton/the-ultimate-reading-list-for-developers-e96c832d9687)
 
-https://medium.com/@nathanbyers13/10-books-that-every-software-developer-must-read-in-2023-260f44c1498d
+[books to read](https://medium.com/@nathanbyers13/10-books-that-every-software-developer-must-read-in-2023-260f44c1498d)
 
-https://github.com/mtdvio/every-programmer-should-know
+[every programmer should know](https://github.com/mtdvio/every-programmer-should-know)
 
-https://stackoverflow.com/questions/556405/what-do-real-user-and-sys-mean-in-the-output-of-time1
+[real user sys time in time](https://stackoverflow.com/questions/556405/what-do-real-user-and-sys-mean-in-the-output-of-time1)
 
-https://dev.to/satrobit/cpu-time-how-to-accurately-benchmark-your-code-572p
+[benchmark code](https://dev.to/satrobit/cpu-time-how-to-accurately-benchmark-your-code-572p)
 
 [gdb 101](https://www.youtube.com/watch?v=Dq8l1_-QgAc)
 
@@ -96,7 +96,6 @@ https://gist.github.com/cyfdecyf/845986
 
 [Mocking a function in C using “-Wl,–wrap ” compiler flag in GCC](https://cppcodetips.wordpress.com/2020/08/18/mocking-a-function-in-c-using-wl-wrap-compiler-flag-in-gcc/)
 
-https://www.youtube.com/results?search_query=doxygen+tutorial
+[doxygen](https://www.youtube.com/results?search_query=doxygen+tutorial)
 
-https://www.perforce.com/blog/qac/what-is-linting#:~:text=Linting%20is%20the%20automated%20checking,a%20Unix%20utility%20for%20C.
-z
+[linting](https://www.perforce.com/blog/qac/what-is-linting#:~:text=Linting%20is%20the%20automated%20checking,a%20Unix%20utility%20for%20C.z)
