@@ -55,6 +55,10 @@
 
 [stop print debugger](https://www.youtube.com/watch?v=3T3ZDquDDVg)
 
+[tmux](https://tao-of-tmux.readthedocs.io/en/latest/manuscript/10-scripting.html)
+
+
+
 [debug lige a pro](https://www.youtube.com/watch?v=J8uAiZJMfzQ)
 
 [building own debugger](https://www.youtube.com/watch?v=8Uk9ROLGHVE)
