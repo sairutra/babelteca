@@ -82,7 +82,7 @@
 [linux terminal guide](https://www.youtube.com/watch?v=s3ii48qYBxA)
 
 [network programming](https://www.youtube.com/playlist?list=PL9IEJIKnBJjH_zM5LnovnoaKlXML5qh17)
-
+[shared libraries in linux](https://tbhaxor.com/understanding-concept-of-shared-libraries/)
 
 https://42born2code.slack.com/archives/D05URDHK3QS/p1708616354512009
 
