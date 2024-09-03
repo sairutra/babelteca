@@ -84,6 +84,10 @@
 [network programming](https://www.youtube.com/playlist?list=PL9IEJIKnBJjH_zM5LnovnoaKlXML5qh17)
 [shared libraries in linux](https://tbhaxor.com/understanding-concept-of-shared-libraries/)
 
+[reverse engineering] (https://www.youtube.com/watch?v=BRZq5EVQqhg&list=PLMB3ddm5Yvh3gf_iev78YP5EPzkA3nPdL)
+[parsing elf format] (https://www.youtube.com/watch?v=OBDuoqyZ4UA)
+[elf format] (https://www.youtube.com/watch?v=nC1U1LJQL8o)
+
 https://42born2code.slack.com/archives/D05URDHK3QS/p1708616354512009
 
 [Dangers of using dlsym() with RTLD_NEXT](https://optumsoft.com/dangers-of-using-dlsym-with-rtld_next/)
