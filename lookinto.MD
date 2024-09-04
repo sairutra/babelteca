@@ -86,9 +86,11 @@
 
 [screeen copying in linux](https://stackoverflow.com/questions/63628799/how-to-copy-a-line-of-text-in-terminal-using-keyboard-only) 
 
-[reverse engineering] (https://www.youtube.com/watch?v=BRZq5EVQqhg&list=PLMB3ddm5Yvh3gf_iev78YP5EPzkA3nPdL)
-[parsing elf format] (https://www.youtube.com/watch?v=OBDuoqyZ4UA)
-[elf format] (https://www.youtube.com/watch?v=nC1U1LJQL8o)
+[reverse engineering](https://www.youtube.com/watch?v=BRZq5EVQqhg&list=PLMB3ddm5Yvh3gf_iev78YP5EPzkA3nPdL)
+
+[parsing elf format](https://www.youtube.com/watch?v=OBDuoqyZ4UA)
+
+[elf format](https://www.youtube.com/watch?v=nC1U1LJQL8o)
 
 https://42born2code.slack.com/archives/D05URDHK3QS/p1708616354512009
 
