@@ -92,6 +92,8 @@
 
 [elf format](https://www.youtube.com/watch?v=nC1U1LJQL8o)
 
+[copy into clipboard](https://stackoverflow.com/questions/5130968/how-can-i-copy-the-output-of-a-command-directly-into-my-clipboard)
+
 https://42born2code.slack.com/archives/D05URDHK3QS/p1708616354512009
 
 [Dangers of using dlsym() with RTLD_NEXT](https://optumsoft.com/dangers-of-using-dlsym-with-rtld_next/)
