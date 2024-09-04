@@ -55,6 +55,10 @@
 
 [stop print debugger](https://www.youtube.com/watch?v=3T3ZDquDDVg)
 
+[tmux](https://tao-of-tmux.readthedocs.io/en/latest/manuscript/10-scripting.html)
+
+
+
 [debug lige a pro](https://www.youtube.com/watch?v=J8uAiZJMfzQ)
 
 [building own debugger](https://www.youtube.com/watch?v=8Uk9ROLGHVE)
@@ -78,7 +82,17 @@
 [linux terminal guide](https://www.youtube.com/watch?v=s3ii48qYBxA)
 
 [network programming](https://www.youtube.com/playlist?list=PL9IEJIKnBJjH_zM5LnovnoaKlXML5qh17)
+[shared libraries in linux](https://tbhaxor.com/understanding-concept-of-shared-libraries/)
 
+[screen copying in linux](https://askubuntu.com/questions/759358/select-copy-paste-in-terminal-using-only-the-keyboard) 
+
+[reverse engineering](https://www.youtube.com/watch?v=BRZq5EVQqhg&list=PLMB3ddm5Yvh3gf_iev78YP5EPzkA3nPdL)
+
+[parsing elf format](https://www.youtube.com/watch?v=OBDuoqyZ4UA)
+
+[elf format](https://www.youtube.com/watch?v=nC1U1LJQL8o)
+
+[copy into clipboard](https://stackoverflow.com/questions/5130968/how-can-i-copy-the-output-of-a-command-directly-into-my-clipboard)
 
 https://42born2code.slack.com/archives/D05URDHK3QS/p1708616354512009
 
