@@ -84,6 +84,8 @@
 [network programming](https://www.youtube.com/playlist?list=PL9IEJIKnBJjH_zM5LnovnoaKlXML5qh17)
 [shared libraries in linux](https://tbhaxor.com/understanding-concept-of-shared-libraries/)
 
+[screeen copying in linux](https://stackoverflow.com/questions/63628799/how-to-copy-a-line-of-text-in-terminal-using-keyboard-only) 
+
 [reverse engineering] (https://www.youtube.com/watch?v=BRZq5EVQqhg&list=PLMB3ddm5Yvh3gf_iev78YP5EPzkA3nPdL)
 [parsing elf format] (https://www.youtube.com/watch?v=OBDuoqyZ4UA)
 [elf format] (https://www.youtube.com/watch?v=nC1U1LJQL8o)
