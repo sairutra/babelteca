@@ -114,6 +114,8 @@ https://gist.github.com/cyfdecyf/845986
 
 [doxygen](https://www.youtube.com/results?search_query=doxygen+tutorial)
 
+[1 bit music programming](http://randomflux.info/1bit/viewtopic.php?id=21)
+
 [linting](https://www.perforce.com/blog/qac/what-is-linting#:~:text=Linting%20is%20the%20automated%20checking,a%20Unix%20utility%20for%20C.z)
 
 [unit testing in c](https://stackoverflow.com/questions/65820/unit-testing-c-code)
